@@ -6,7 +6,7 @@
     var doc = document.currentScript.ownerDocument;
 
     var me = {
-        img: "http://foxkeh.kitunebi.com/image/fox.jpg",
+        img: "/fox.jpg",
         name: "FirefoxOSコミュニティ",
         company: "FirefoxOSコミュニティ",
         title: "オープンコミュニティ",
