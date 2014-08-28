@@ -6,12 +6,12 @@
     var doc = document.currentScript.ownerDocument;
 
     var me = {
-        img: "https://avatars1.githubusercontent.com/u/4105415",
-        name: "えんぷら部",
-        company: "html5jエンタープライズ部",
+        img: "http://foxkeh.kitunebi.com/image/fox.jpg",
+        name: "FirefoxOSコミュニティ",
+        company: "FirefoxOSコミュニティ",
         title: "オープンコミュニティ",
-        contact: "#html5biz",
-        contactUrl: "http://www.html5biz.org/" 
+        contact: "#fxos",
+        contactUrl: "http://www.fxos.org/" 
     };
   
     element.fillMe = function(){
